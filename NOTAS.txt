@@ -1,0 +1,15 @@
+
+
+<title></title> siempre se debe colocar es obligatorio y nunca se debe repetir
+
+
+<meta name="description" Content=""> define el texto que va debajo de los resultados de busqueda!!! solo tiene una capacidad de 160 caracteres se deben usar etiquetas distintas
+
+<meta name="viewport" content="">
+
+NO USAR RESET.CSS!!!! USAR NORMALIZE.CSS
+
+
+JAVASCRIPT SE USA EN EL BODY NO EN EL HEADER PARA ASI CARGAR PRIMERO EL DISEÑO Y LUEGO EL SCRIPT
+
+
