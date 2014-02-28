@@ -13,3 +13,29 @@ NO USAR RESET.CSS!!!! USAR NORMALIZE.CSS
 JAVASCRIPT SE USA EN EL BODY NO EN EL HEADER PARA ASI CARGAR PRIMERO EL DISEÑO Y LUEGO EL SCRIPT
 
 
+-------------------------2--------------------------------------------
+
+
+inline: se posisiona al lado del texto no tiene margenes pero si padding
+
+block: ocupa todo y mueve el texto hacia abajo
+
+inline-block: funciona como el inline pero con margin 
+
+
+float-left o float-right: rompe las caracteristicas de los objetos y permite que el texto abrace el objeto
+
+display-inline-block: mismo que el float pero con margin
+
+
+
+Position: static: posicion por default en html uno al lado del otro o uno encima del otro
+
+Position: relative: el objeto obtiene 2 caracteristicas:
+			puedo usar en css: top left 
+Position: absolute: igual que posicion relative pero rompe el modelo de caja, toma de referencia el body, se usa para ubicar el objeto donde se requiera, tomando como referencia el position relative mas proximo.
+
+text-shadow: 1.desplazamiento x
+			 2.desplazamiento y
+			 3.difumina 
+			 4.color
